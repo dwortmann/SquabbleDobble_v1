@@ -3,7 +3,8 @@
 //
 Use this file for any general information regarding the project, notes, concerns
 and any similar issues. Also include your name in the Developers field when you
-have successfully synched up with the repository.
+have successfully synched up with the repository. I have my desktop, and laptop
+synched using TortoiseGit and WindowsGit working together.
 
 
 
