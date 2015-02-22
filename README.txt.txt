@@ -24,6 +24,9 @@ Dan Wortmann, dwortmann@wisc.edu, 02/22/2015
 //
 //
 
+Some useful setup help on these sites:
+https://code.google.com/p/tortoisegit/
+http://tech.pro/tutorial/1939/setting-up-git-on-windows-with-tortoisegit-and-github
 
 
 ////////// CONCERNS ////////////////////////////////////////////////////////////
